@@ -5,5 +5,6 @@
 	"minAppVersion": "1.4.0",
 	"description": "Track spending in ordinary markdown notes. Each note is its own tracker, with category reports.",
 	"author": "Razvan Muntian",
+	"authorUrl": "https://github.com/razvanmtn",
 	"isDesktopOnly": false
 }
