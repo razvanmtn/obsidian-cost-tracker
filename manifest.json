@@ -1,7 +1,7 @@
 {
 	"id": "cost-tracker",
 	"name": "Cost Tracker",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.4.0",
 	"description": "Track spending in ordinary markdown notes. Each note is its own tracker, with category reports.",
 	"author": "Razvan Muntian",
