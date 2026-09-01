@@ -27,7 +27,7 @@
 		"url": "git+https://github.com/razvanmtn/obsidian-cost-tracker.git"
 	},
 	"devDependencies": {
-		"@types/node": "^26.2.0",
+		"@types/node": "^26.4.0",
 		"esbuild": "0.28.2",
 		"obsidian": "latest",
 		"typescript": "^7.0.2"
